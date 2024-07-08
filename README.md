@@ -1,4 +1,4 @@
 - 👋 Hey, I'm Dilan
-- 🔭 I’m interested in full stack web development, software development, machine learning, and AI.
+- 🔭 I’m interested in full stack web development, software engineering, machine learning, AI, and data science.
 - 🌱 I’m currently practicing Java, Python, C++, JavaScript, React.js, HTML, and CSS.
 - 📫 Feel free to reach out at dilanchoksi@gmail.com
