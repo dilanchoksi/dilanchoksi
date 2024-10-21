@@ -1,4 +1,5 @@
 - 👋 Hey, I'm Dilan
-- 🔭 I’m interested in full-stack web development, software engineering, machine learning, AI, and data science.
-- 🌱 I’m currently practicing Java, Python, JavaScript, React.js, Node,js, Next.js, Express.js, database tools like MongoDB and PostgreSQL, and innovative HTML/CSS frameworks like Bootstrap, Tailwind, and Framer Motion. 
+- 🔭 I’m interested in full-stack software development and ML/AI
+- 🌱 I’m currently practicing C++, Java (Spring Boot), Python (Django, Flask, Pandas, TensorFlow, Scikit-learn, NumPy), JavaScript (React.js, Node.js, Express.js, Next.js), database tools (MongoDB, PostgreSQL), and frontend frameworks (Tailwind, FramerMotion)
 - 📫 Feel free to reach me at dilanchoksi@gmail.com
+- 🛠 My LinkedIn profile: https://www.linkedin.com/in/dilanchoksi/
