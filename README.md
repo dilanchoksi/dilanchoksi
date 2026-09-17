@@ -1,3 +1,3 @@
 - 👋 Hey, I'm Dilan | [linkedin.com/in/dilanchoksi](https://www.linkedin.com/in/dilanchoksi/)
 - 🔭 I’m passionate about distributed systems, scalable infrastructure, low latency, and applied ML.
-- 📫 Feel free to reach me at dilanchoksi@gmail.com
+- 📫 Feel free to reach me at dchoksi05@gmail.com
